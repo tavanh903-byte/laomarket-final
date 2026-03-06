@@ -1,0 +1,8 @@
+{
+  "name": "lao-market-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions for LAO ມາເກັດ",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
